@@ -1,2 +1,2 @@
-# enfermerApp
-Repositorio destinado a desarrollar enfermerapp
+# NurseStudy
+Repositorio destinado a desarrollar NurseStudy
